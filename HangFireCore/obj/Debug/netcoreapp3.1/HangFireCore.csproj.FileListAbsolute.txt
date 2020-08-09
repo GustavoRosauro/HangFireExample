@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\bin\Debug\netcoreapp3.1\HangFireCore.deps.json
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\bin\Debug\netcoreapp3.1\HangFireCore.dll
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\bin\Debug\netcoreapp3.1\HangFireCore.pdb
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\obj\Debug\netcoreapp3.1\HangFireCore.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\obj\Debug\netcoreapp3.1\HangFireCore.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\obj\Debug\netcoreapp3.1\HangFireCore.AssemblyInfo.cs
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\obj\Debug\netcoreapp3.1\HangFireCore.dll
+C:\Users\Acer\source\repos\HangFireExample\HangFireCore\obj\Debug\netcoreapp3.1\HangFireCore.pdb
